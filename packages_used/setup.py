@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 # 核心配置
 setup(
     # 项目包名（pip安装时的名称）
-    name="mypackage01",
+    name="mypackage-demo",
     # 项目版本号
-    version="1.1.2",
+    # version="1.1.2",
     # 项目作者
     author="KingJon0770",
     # 作者邮箱
