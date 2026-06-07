@@ -13,7 +13,7 @@ setup(
     # 项目简介
     description="Python setup测试项目",
     # 项目主页地址,关键字段
-    url="https://github.com/KingJon0770/MyClassOne/tree/master/packages_used",
+    url="https://github.com/KingJon0770/MyClassOne/tree/master/packages_used/mypackage",
     # 自动识别项目内所有包
     packages=find_packages(),
     # 兼容的Python版本
