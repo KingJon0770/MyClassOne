@@ -1,5 +1,3 @@
-
-# # 版本
 __version__ = "1.1.2"
 
 from .core import processor

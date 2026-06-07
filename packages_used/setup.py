@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 # 核心配置
 setup(
     # 项目包名（pip安装时的名称）
-    name="mypackage",
+    name="mypackage01",
     # 项目版本号
     version="1.0.0",
     # 项目作者
